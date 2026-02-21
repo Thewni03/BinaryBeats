@@ -37,7 +37,7 @@ Make sure you have installed:
 #### step 1 - Clone the Repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/Thewni03/BinaryBeats.git
 ```
 
 #### step 2 - Run the App
